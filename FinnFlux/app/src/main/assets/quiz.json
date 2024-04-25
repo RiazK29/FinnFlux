@@ -1,0 +1,55 @@
+[{
+  "question": "According to data from the last 13 years, the most women were naturalized in 2017.",
+  "content": "6,318 people, the largest number of women, were naturalized in 2017.",
+  "answer": true
+},
+  {
+    "question": "In the Satakunta region, most men were naturalized in 2011.",
+    "content": "The fewest men were naturalized in 2011 with 18 men.",
+    "answer": false
+  },
+  {
+    "question": "In the Ostrobothnia region, the number of men naturalized in 2015 was greater than the number of women.",
+    "content": "In 2015, 174 women and 152 men were naturalized.",
+    "answer": false
+  },
+  {
+    "question": "The same number of men have been naturalized in the Kainuu region for three consecutive years.",
+    "content": "From 2016 to 2018, 33 men were naturalized every year for three years.",
+    "answer": true
+  },
+
+  {
+    "question": "The Central Ostrobothnia region was the region that gave the most citizenship among all regions in 2011.",
+    "content": "The Central Ostrobothnia region was the region that gave the least citizenship in 2011.",
+    "answer": false
+  },
+  {
+    "question": "In the Satakunta region, the number of naturalized men has always been greater than the number of women.",
+    "content": "On the contrary, the number of men granted citizenship has always been greater than the number of women.",
+    "answer": false
+  },
+
+  {
+    "question": "The fewest men in all of Finland were naturalized in 2010.",
+    "content": "1,712 men were naturalized.",
+    "answer": true
+  },
+  {
+    "question": "The number of naturalized women and men in the Pirkanmaa region has always been different.",
+    "content": "In the Pirkanmaa region, the number of people granted citizenship has never been equal.",
+    "answer": true
+  },
+
+  {
+    "question": "The number of men naturalized in the Kymenlaakso region has increased every year.",
+    "content": "Some years it has decreased.",
+    "answer": false
+  },
+  {
+    "question": "In the South Karelia region, the number of women naturalized has always been greater than the number of men.",
+    "content": "True, there has always been too much.",
+    "answer": true
+  }
+
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_wikipedia"
+        android:icon="@drawable/ic_wikipedia"
+        android:title="Wikipedia" />
+    <item
+        android:id="@+id/navigation_weather"
+        android:icon="@drawable/baseline_sunny_snowing_24"
+        android:title="Weather" />
+    <item
+        android:id="@+id/navigation_population"
+        android:icon="@drawable/baseline_supervised_user_circle_24"
+        android:title="Citizenship Cout" />
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/baseline_quiz_24"
+        android:title="Quiz" />
+</menu>
